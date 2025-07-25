@@ -1,3 +1,3 @@
 # alpha-demo
 demo repository
-author - praneeth
+author - praneeth (praneeth repository)
